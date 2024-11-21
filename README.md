@@ -77,7 +77,8 @@ weather-app/
 - **Geolocation Feature**: Automatically get the user's current location to display weather data.
 
 ## Screenshots
-[image](https://github.com/user-attachments/assets/5dfb7588-8a51-48b8-85a1-8b44b1c0f62b)
+![image](https://github.com/user-attachments/assets/877796de-5b1d-4957-a7de-f3f555d63a54)
+
 
 
 ## Contributing
